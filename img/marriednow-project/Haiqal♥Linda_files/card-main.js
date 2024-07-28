@@ -5,6 +5,7 @@ $(function(){
     $('body').find('.start-overlay').addClass('slideOutUp');
 
     setTimeout(() => {
+        $('body').find('.hand-wrapper').addClass('d-none');
         $('body').find('.opening-card').addClass('d-none');
         $('body').find('.main-div').removeClass('d-none');
         $('body').find('.navbar-card').removeClass('d-none');
