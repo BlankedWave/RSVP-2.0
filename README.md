@@ -1,4 +1,4 @@
-# haiqal-linda-solemnization
+# aqil-who-solemnization
 This project is an initiative taken by a groom who possesses knowledge in web development. The aim is to create his own digital wedding card, as this event holds immense importance and is a precious memory in his lifetime. All of the development work has been carried out during free weekends.
 
 Development has been done using HTML, CSS, Bootstrap 5, and jQuery.
